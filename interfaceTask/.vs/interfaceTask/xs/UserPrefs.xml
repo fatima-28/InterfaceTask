@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{455D9C01-67D3-436C-B4FC-857CE2073A8B}|Default">
+  <MonoDevelop.Ide.ItemProperties.interfaceTask FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="interfaceTask/User.cs">
+    <Files>
+      <File FileName="interfaceTask/Program.cs" Line="21" Column="1" />
+      <File FileName="interfaceTask/User.cs" Line="82" Column="1" />
+      <File FileName="interfaceTask/IAccount.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="interfaceTask" expanded="True">
+            <Node name="interfaceTask" expanded="True">
+              <Node name="User.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
